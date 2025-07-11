@@ -24,6 +24,7 @@
 
 - docker ps -a -> lista tudo
 - rodar no terminal docker compose up -d
+- docker compose stop 
 
 - npm i postgres
 
@@ -39,3 +40,4 @@
 
 - o que é o seed - prepopula o bd
 -npm i drizzle-seed -D
+-npm db:seed -> na configuracao do package.json
